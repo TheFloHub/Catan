@@ -1,0 +1,46 @@
+The Rules for *The Settlers of Catan:
+
+Objective of the Game:
+The goal of The Settlers of Catan is to be the first player to reach 10 victory points by building settlements, cities, roads, and acquiring special development cards.
+
+Setup
+1. Game Board: 
+   - The board consists of 19 hexagonal tiles representing different terrain types:  
+     - Hills (brick), Forests (wood), Mountains (ore), Fields (wheat), Pasture (sheep), and Desert (no resource).  
+   - Each hex (except the desert) gets a number token (2-12) determining dice roll probabilities.
+   - Players place their initial settlements and roads before the game begins.
+
+2. Starting Positions: 
+   - Each player places one settlement and one road.
+   - Then, in reverse order, each player places a second settlement and road.
+   - The second settlement grants initial resource cards based on adjacent hexes.
+
+Turn Structure
+On each turn, a player follows these steps:
+
+1. Roll the Dice (2 six-sided dice) 
+   - All players collect resources from hexagonal tiles matching the rolled number.
+   - If a player has a settlement adjacent to a hexagonal tile with that number, they gain 1 resource. If they have a city, they gain 2 resources.
+
+2. Trade Resources 
+   - Players may trade resources with each other.  
+   - Players can also trade with the bank at a 4:1 ratio or better using harbor trading (e.g., 3:1 or 2:1 for certain resources if they have a harbor).
+
+3. Build Structures or Buy Development Cards
+   Players may spend resources to:
+   - Build a Road (1 wood, 1 brick)
+   - Build a Settlement (1 wood, 1 brick, 1 wheat, 1 sheep)
+   - Upgrade a Settlement to a City (2 wheat, 3 ore)
+
+4. Move the Robber (if a 7 is rolled)
+   - No one collects resources.
+   - Any player with 8+ resource cards must discard half
+   - The active player moves the **Robber** to any hex and **steals** a resource from a player adjacent to that hex. The blocked hex **does not produce resources** until the Robber is moved.
+
+---
+
+Winning the Game
+The game ends when a player reaches 10 victory points on their turn. Points are earned through:
+- Settlements (1 point each)
+- Cities (2 points each)
+
